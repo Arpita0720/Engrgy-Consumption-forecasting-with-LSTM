@@ -1,10 +1,7 @@
 <h1>🔋 Energy Forecasting with Neural Networks 🔋</h1> Harnessing AI to Power Tomorrow
 
 <h2>⚡️ Project Overview </h2><br>
-
 Imagine a world where energy is precisely matched to our needs, saving resources, reducing costs, and keeping our lights on sustainably. This project is a step toward that reality. By combining the predictive powers of Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks, we aim to forecast energy consumption with unprecedented accuracy, driving smarter grids and greener cities. 🌍💡
-
-
 
 <h2>🎯 Why This Project Matters</h2><br>
 
