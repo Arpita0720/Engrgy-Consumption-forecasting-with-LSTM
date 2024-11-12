@@ -10,9 +10,9 @@ Global energy demands are soaring, and renewables like solar and wind are adding
 
 <h2>🌟 Key Highlights </h2><br>
 
-*Powerful RNN and LSTM Models: Developed specifically to capture sequential dependencies in energy data, these models "learn" from past consumption trends to predict future demand.<br>
-*Hybrid Model Architecture: By integrating Convolutional Neural Networks (CNNs) with RNNs and LSTMs, we create a powerhouse model that captures both spatial and temporal nuances in the data.<br>
-*Advanced Optimization Techniques: Includes hyperparameter tuning, dropout regularization, and adaptive algorithms for enhanced accuracy and generalization.<br>
+* Powerful RNN and LSTM Models: Developed specifically to capture sequential dependencies in energy data, these models "learn" from past consumption trends to predict future demand.<br>
+* Hybrid Model Architecture: By integrating Convolutional Neural Networks (CNNs) with RNNs and LSTMs, we create a powerhouse model that captures both spatial and temporal nuances in the data.<br>
+* Advanced Optimization Techniques: Includes hyperparameter tuning, dropout regularization, and adaptive algorithms for enhanced accuracy and generalization.<br>
 
 <h2>🛠 Project Workflow</h2><br>
 
@@ -48,9 +48,9 @@ The model has shown promise in accurately forecasting energy use across various 
 <h2>🚀 Future Enhancements</h2><br>
 
 The possibilities are electrifying! Potential directions include:<br>
-*Attention Mechanisms to sharpen model focus on the most critical time-series patterns.<br>
-*Reinforcement Learning for adaptable, real-time forecasting in smart grids.<br>
-*Expanded Hybrid Models that integrate LSTM with additional techniques for even greater forecasting power.<br>
+* Attention Mechanisms to sharpen model focus on the most critical time-series patterns.<br>
+* Reinforcement Learning for adaptable, real-time forecasting in smart grids.<br>
+* Expanded Hybrid Models that integrate LSTM with additional techniques for even greater forecasting power.<br>
 
 <h2>🤝 Contributing</h2><br>
 
