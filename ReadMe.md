@@ -1,4 +1,4 @@
-🔋 Energy Forecasting with Neural Networks 🔋
+<h1>🔋 Energy Forecasting with Neural Networks 🔋</h1>
 Harnessing AI to Power Tomorrow
 
 ⚡️ Project Overview
