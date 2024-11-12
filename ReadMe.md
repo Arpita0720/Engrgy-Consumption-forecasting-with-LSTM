@@ -17,11 +17,11 @@ Global energy demands are soaring, and renewables like solar and wind are adding
 <h2>🛠 Project Workflow</h2><br>
 
 This project follows a structured pipeline to ensure robust results:<br>
-1.Data Preprocessing: Cleans, scales, and prepares raw data, handling any anomalies along the way.<br>
-2.Feature Engineering: Adds extra layers of insight by considering seasonal patterns, weather variables, and socioeconomic factors.<br>
-3.Model Training: Builds a multi-layered LSTM model that learns to spot patterns in energy usage over time.<br>
-4.Evaluation and Validation: Tests accuracy using Mean Squared Error (MSE) and other metrics, ensuring reliable predictions.<br>
-5.Prediction & Visualization: Turns raw data into actionable insights with clear, intuitive visuals.<br>
+* Data Preprocessing: Cleans, scales, and prepares raw data, handling any anomalies along the way.<br>
+* Feature Engineering: Adds extra layers of insight by considering seasonal patterns, weather variables, and socioeconomic factors.<br>
+* Model Training: Builds a multi-layered LSTM model that learns to spot patterns in energy usage over time.<br>
+* Evaluation and Validation: Tests accuracy using Mean Squared Error (MSE) and other metrics, ensuring reliable predictions.<br>
+* Prediction & Visualization: Turns raw data into actionable insights with clear, intuitive visuals.<br>
 
 <h2>🚀 Getting Started</h2><br>
 
