@@ -10,13 +10,13 @@ Global energy demands are soaring, and renewables like solar and wind are adding
 
 <h2>🌟 Key Highlights </h2><br>
 
-Powerful RNN and LSTM Models: Developed specifically to capture sequential dependencies in energy data, these models "learn" from past consumption trends to predict future demand.<br>
-Hybrid Model Architecture: By integrating Convolutional Neural Networks (CNNs) with RNNs and LSTMs, we create a powerhouse model that captures both spatial and temporal nuances in the data.<br>
-Advanced Optimization Techniques: Includes hyperparameter tuning, dropout regularization, and adaptive algorithms for enhanced accuracy and generalization.<br>
+*Powerful RNN and LSTM Models: Developed specifically to capture sequential dependencies in energy data, these models "learn" from past consumption trends to predict future demand.<br>
+*Hybrid Model Architecture: By integrating Convolutional Neural Networks (CNNs) with RNNs and LSTMs, we create a powerhouse model that captures both spatial and temporal nuances in the data.<br>
+*Advanced Optimization Techniques: Includes hyperparameter tuning, dropout regularization, and adaptive algorithms for enhanced accuracy and generalization.<br>
 
 <h2>🛠 Project Workflow</h2><br>
 
-This project follows a structured pipeline to ensure robust results:
+This project follows a structured pipeline to ensure robust results:<br>
 1.Data Preprocessing: Cleans, scales, and prepares raw data, handling any anomalies along the way.<br>
 2.Feature Engineering: Adds extra layers of insight by considering seasonal patterns, weather variables, and socioeconomic factors.<br>
 3.Model Training: Builds a multi-layered LSTM model that learns to spot patterns in energy usage over time.<br>
@@ -25,13 +25,13 @@ This project follows a structured pipeline to ensure robust results:
 
 <h2>🚀 Getting Started</h2><br>
 
-Follow these steps to power up the project on your local machine:
+Follow these steps to power up the project on your local machine:<br>
 
-1.Clone the repository:
-    git clone https://github.com/username/energy-forecasting.git
-2.Navigate into the project folder:
-    cd energy-forecasting
-3.Install dependencies:
+1.Clone the repository:<br>
+    git clone https://github.com/username/energy-forecasting.git<br>
+2.Navigate into the project folder:<br>
+    cd energy-forecasting<br>
+3.Install dependencies:<br>
     pip install -r requirements.txt<br>
 
 <h2>💡 Using the Project</h2> <br>
@@ -48,9 +48,9 @@ The model has shown promise in accurately forecasting energy use across various 
 <h2>🚀 Future Enhancements</h2><br>
 
 The possibilities are electrifying! Potential directions include:<br>
--Attention Mechanisms to sharpen model focus on the most critical time-series patterns.<br>
--Reinforcement Learning for adaptable, real-time forecasting in smart grids.<br>
--Expanded Hybrid Models that integrate LSTM with additional techniques for even greater forecasting power.<br>
+*Attention Mechanisms to sharpen model focus on the most critical time-series patterns.<br>
+*Reinforcement Learning for adaptable, real-time forecasting in smart grids.<br>
+*Expanded Hybrid Models that integrate LSTM with additional techniques for even greater forecasting power.<br>
 
 <h2>🤝 Contributing</h2><br>
 
