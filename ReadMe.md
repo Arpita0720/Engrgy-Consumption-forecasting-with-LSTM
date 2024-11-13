@@ -7,6 +7,9 @@ Imagine a world where energy is precisely matched to our needs, saving resources
 
 Global energy demands are soaring, and renewables like solar and wind are adding complexity to the mix. Traditional forecasting models can’t keep up with this dynamic landscape. Machine learning, however, can! This project harnesses the strengths of RNNs and LSTMs to model the intricate, temporal patterns of energy use, paving the way for more resilient energy systems and cost-effective resource management.<br?
 
+<h2> DATASET </h2><br>
+The Dataset used in this project is available on UCI Machine learning libraby with following link<br>
+https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction
 
 <h2>🌟 Key Highlights </h2><br>
 
